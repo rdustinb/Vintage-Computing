@@ -51,3 +51,12 @@ be performed with:
 ```bash
 ruby path/to/install
 ```
+
+After Tigerbrew is installed the first thing to run is brew help and brew doctor to finalize the install and see the
+state of the package manager. After that installing packages will work just as it does with Homebrew on a modern system.
+
+![Running brew help takes some time](https://github.com/rdustinb/Vintage-Computing/blob/b9ddd78a5c629196eba4ca6f5f3ec601d0fa830f/iMac%20G4%20PowerPC/images/brewhelp.png "Brew Help")
+
+Using NeoFetch shows just how limited the old Apple Terminal is with colors. I think it only supports 8 colors.
+
+![NeoFetch output on iMac G4 PowerPC](https://github.com/rdustinb/Vintage-Computing/blob/b9ddd78a5c629196eba4ca6f5f3ec601d0fa830f/iMac%20G4%20PowerPC/images/neofetch.png "NeoFetch")
